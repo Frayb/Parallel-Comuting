@@ -1,1 +1,2 @@
-# Parallel-Comuting
+# Parallel-Computing
+Multi-threaded and parallel computing
